@@ -1,0 +1,37 @@
+{
+  "invoices": [
+    {
+      "id": "V1StGXR8",
+      "address": {
+        "street": "19 Union Terrace",
+        "city": "London",
+        "postcode": "E1 3EZ",
+        "country": "United Kingdom"
+      },
+      "customer": {
+        "name": "Matt Murdock",
+        "email": "matt.murdock@gmail.com",
+        "address": {
+          "street": "84 Church Way",
+          "city": "Bradford",
+          "postcode": "BD1 9PB",
+          "country": "United Kingdom"
+        }
+      },
+      "date": "05-20-2021",
+      "terms": "31",
+      "description": "Graphic Design",
+      "items": [
+        {
+          "id": "Z5jdHX6B",
+          "name": "Email Design",
+          "quantity": 2,
+          "price": 200,
+          "total": 400
+        }
+      ],
+      "status": "paid",
+      "total": 400
+    }
+  ]
+}
